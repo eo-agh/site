@@ -1,1 +1,1 @@
-🌐 [Website](https://github.com/eo-agh/site)
+🌐 [Website](https://eo-agh.github.io/site)
