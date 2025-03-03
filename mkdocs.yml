@@ -1,4 +1,4 @@
-site_name: AGH Earth Observation Lab
+site_name: AGH Earth Observation Lab 🌍🔬
 docs_dir: docs
 repo_url: https://github.com/eo-agh/site
 
@@ -38,9 +38,9 @@ markdown_extensions:
   - pymdownx.details
 
 nav:
-  - About Us: index.md
-  - Research Areas: research.md
-  - Education: education.md
-  - Our Team: team.md
-  - Get Involved: get_involved.md
-  - Contact: contact.md
+  - 🌍 About Us: index.md
+  - 🔍 Our Expertise: research.md
+  - 🎓 Education: education.md
+  - 🏆 Our Team: team.md
+  - 🤝 Get Involved: get_involved.md
+  - ✉️ Contact: contact.md
